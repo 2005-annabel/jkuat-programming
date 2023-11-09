@@ -46,10 +46,10 @@ Execution	The compiled program can be executed directly by the computer's CPU.	T
 Speed	Compiled programs are typically faster than interpreted programs because the compiler can optimize the code and generate machine code that is specifically tailored to the target platform.	Interpreted programs are typically slower than compiled programs because the interpreter has to translate the source code on the fly.
 Debugging	Debugging compiled programs can be more difficult because the compiler can introduce errors during the translation process.	Debugging interpreted programs is typically easier because the interpreter can display errors in the source code as the program is running.
 Portability	Compiled programs are more portable than interpreted programs because they are machine code and can be executed on any platform that has a compatible CPU.	Interpreted programs are less portable because they need the interpreter to be present on the platform where the program is running.
-5.Arithmetic operators
-Relational operators
-Logical operators
-Bitwise operators
+5.Arithmetic operators:+,=-
+Relational operators :(==)
+Logical operators: &&,||,!
+Bitwise operators: & (bitwise and)
 Assignment operators
-Increment/decrement operators
-Conditional operators
+Increment/decrement operators : (++),(--)
+Conditional operators: used to evaluate one of two expression based on given conditions (?:)
